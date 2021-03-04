@@ -6,3 +6,5 @@ ORDER BY RIGHT(name, 3), ID ; -- order only 3 chars and then by ID
 
 
 
+
+
